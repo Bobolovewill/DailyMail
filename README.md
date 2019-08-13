@@ -4,7 +4,7 @@
 ## 安装与使用
 如果你觉得这封邮件的内容适合你发送的对象，可以按照以下步骤，改少量参数即可运行程序；
 
-1. git clone https://github.com/Vincedream/NodeMail
+1. git clone https://github.com/Bobolovewill/DailyMail
 2. 打开main.js，修改配置项
 
 ``` javascript
